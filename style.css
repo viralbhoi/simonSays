@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  background-color: blanchedalmond;
+}
+.btn-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+  font-size: 40px;
+}
+
+.btn{
+  box-sizing: border-box;
+  height: 160px;
+  width: 160px;
+  border-radius: 20px;
+  margin: 18px;
+  border: 7px solid black;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.green{
+  background-color: green;
+}
+
+.flash{
+  background-color: white;
+}
